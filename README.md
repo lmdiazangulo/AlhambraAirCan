@@ -68,28 +68,22 @@ Otras modificaciones que, no siendo fundamentales, pueden mejorar el desempeño 
 6. Añadir un detector diferencial de presión que regule la turbina.
 7. Sincronizar la activación de la turbinas con las respiraciones por minuto del usuario. De esta forma se reduciría tanto el consumo energético del dispositivo, como la sequedad de los ojos y la presión espiratoria al ciclarse el aire solo durante la inspiración.
 
+## Estado actual
+Se han realizado diferentes iteraciones detectandose necesidades de mejora en la generación de ruido y calentamiento del aire.
+
+![Diferentes versiones del Alhambra Air Can (izquierda y centro), junto con el soplador de Open-Mask (derecha)](https://github.com/lmdiazangulo/AlhambraAirCan/blob/master/doc/first_iterations.jpg)
+    Diferentes versiones del Alhambra Air Can v0.1 (izquierda y centro), junto con el soplador de Open-Mask (derecha)
+ 
+![Ensayo preliminar con una mascara de Decathlon (que no corresponde a la versión final) realizada en el centro IAVANTE, en que se comprobó que los parámetros de flujo era compatibles con la respiración humana.](https://github.com/lmdiazangulo/AlhambraAirCan/blob/master/doc/breathing_test.jpg)
+    Ensayo preliminar con una mascara de Decathlon para el Alhambra Air Can v0.1 (que no corresponde a la versión final) realizada en el centro IAVANTE, en que se comprobó que los parámetros de flujo era compatibles con la respiración humana.
+
+
 ## Trabajo futuro
 1. Replicar modelo de open-mask.org
 2. Introducir las mejoras descritas en el modelo de open-mask.
 
 
-
-
 # Referencias
-
-
-
-
-  
-
-Diferentes versiones del Alhambra Air Can (izquierda y centro), junto con el soplador de Open-Mask (derecha)
-
-
-  
-
-Ensayo preliminar con una mascara de Decathlon (que no corresponde a la versión final) realizada en el centro IAVANTE, en que se comprobó que los parámetros de flujo era compatibles con la respiración humana.
-________________
-
 [1]: "3M™ Versaflo™ TR-300, TR-300+, TR-600 and TR-800 ...." https://multimedia.3m.com/mws/media/1290291O/versaflo-tr-300-vs-tr-600-chart.pdf. Se consultó el 27 may.. 2020.
 
 [2]: "CoronavirusMakers · GitLab." https://gitlab.com/coronavirusmakers. Se consultó el 27 may.. 2020.
